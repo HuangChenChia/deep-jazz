@@ -23,7 +23,7 @@ git clone https://github.com/HuangChenChia/deep-jazz.git
 # Instruction
 
 ``` shell
-python generator.py [\# of epochs]
+python generator.py [# of epochs]
 ```
 
 # Citations
