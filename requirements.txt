@@ -1,0 +1,5 @@
+Theano
+keras
+tensorflow
+music21
+pygame
